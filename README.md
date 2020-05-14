@@ -22,11 +22,14 @@ Docker Compose should be also installed.***
 
 ## STEPS:
 1. Open Terminal
-2. Create two volume using commands : docker volume create mysql_storage
-                                 docker volume create wp_storage
+2. Create two volume using commands :
 ![](images/001.jpg)
 
-If you wish to run the project, you can use the following command:
+3.create directory /mycompose to store docker-compose yml file
+![](images/002.jpg)
 
-docker-compose up
+4.Copy docker-compose.yml file given in this repository to /mycompose directory
+![](images/003.jpg)
+
+5.
 
