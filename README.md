@@ -18,10 +18,12 @@ Also an amazing thing about this project is that I have written all the code to 
 ```
 ***Assumptions:
 RedHat Linux 8 or Centos 8 running in a virtual box. Docker is installed and configured. Docker container images like centos8:, mysql:5.7, wordpress:5.1.1-php7.3-apache are already installed.
-Docker Compose should be also installed. ***
+Docker Compose should be also installed.***
 
-
-This project has a docker-compose.yml file, which will start this project on your local machine and help you see changes instantly.
+## STEPS:
+1. Open Terminal
+2. Create two volume using commands : docker volume create mysql_storage
+                                 docker volume create wp_storage
 
 If you wish to run the project, you can use the following command:
 
