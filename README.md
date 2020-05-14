@@ -31,5 +31,10 @@ Docker Compose should be also installed.***
 4.Copy docker-compose.yml file given in this repository to /mycompose directory
 ![](images/003.jpg)
 
-5.
+5.Run command :
+![](images/004/png)
+
+
+## Thank you :)
+
 
