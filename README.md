@@ -23,19 +23,25 @@ Docker Compose should be also installed.***
 
 ## STEPS:
 1. Open Terminal
+
 2. Create two volume using commands :
+
 ![](images/001.jpg)
 
 3.create directory /mycompose to store docker-compose yml file
+
 ![](images/002.jpg)
 
 4.Copy docker-compose.yml file given in this repository to /mycompose directory
+
 ![](images/003.jpg)
 
 5.Run command :
+
 ![](images/004.png)
 
 6. Check website using your browser: https://192.168.1.7:8080 (use your own ip of RedHat O.S)
+
 ![](images/shop1.jpg)
 
 ## Thank you :)
