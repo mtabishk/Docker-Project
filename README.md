@@ -28,7 +28,7 @@ Docker Compose should be also installed.***
 
 ![](images/001.jpg)
 
-3.create directory /mycompose to store docker-compose yml file
+3.Create directory /mycompose to store docker-compose yml file
 
 ![](images/002.jpg)
 
