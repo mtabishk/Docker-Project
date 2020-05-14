@@ -1,6 +1,7 @@
 # Docker-Project 01
 ## Title: Online E-Commerce Website for supplying essential items needed during this lockdown.
 
+![](images/mockup.png)
 @author: Muhammad Tabish
 @github: https://github.com/mtabishk
 @LinkedIN : https://www.linkedin.com/in/mtabishk/
@@ -32,8 +33,10 @@ Docker Compose should be also installed.***
 ![](images/003.jpg)
 
 5.Run command :
-![](images/004/png)
+![](images/004.png)
 
+6. Check website using your browser: https://192.168.1.7:8080 (use your own ip of RedHat O.S)
+![](images/shop1.jpg)
 
 ## Thank you :)
 
